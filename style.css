@@ -1,0 +1,47 @@
+table{
+    font-family: Agency FB, sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: solid;
+    border-color: deepskyblue;
+    font-size: 30px;
+}
+
+th{
+    font-weight: 800;
+    background-color: deepskyblue;
+    color: #ffffff;
+    border-width: 5px;
+}
+
+td{
+    color: aliceblue;
+    border-width: 5px;
+}
+
+h1{
+    color: deepskyblue;
+    font-family: Agency FB,fantasy;
+    font-size: 50px
+}
+
+p{
+    color: #ffffff;
+    font-family: Agency FB, fantasy;
+    font-size: 30px;
+}
+
+a{
+    font-family: Agency FB, fantasy;
+    font-size: 30px;
+}
+
+h2{
+    font-family: Agency FB, fantasy;
+    color: coral;
+    font-size: 30px;
+}
+
+b{
+    color: deepskyblue;
+}
