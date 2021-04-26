@@ -45,3 +45,15 @@ h2{
 b{
     color: deepskyblue;
 }
+
+#menu-bar a{
+    font-family: Agency FB, sans-serif;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 5px
+}
+
+#menu-bar a:hover{
+    background-color: grey;
+    color: #ffffff;
+}
